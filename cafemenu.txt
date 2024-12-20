@@ -1,0 +1,21 @@
+Juices:Orange Juice:10:3
+Juices:Apple Juice:15:3
+Juices:Mango Juice:8:3
+Juices:Pineapple Juice:12:4
+Juices:Grape Juice:9:4
+Juices:Banana Juice:10:10
+Juices:Watermelon Juice:7:5
+Fast Food:Cheeseburger:20:5
+Fast Food:Chicken Burger:18:5
+Fast Food:Veggie Burger:15:4
+Fast Food:Pepperoni Pizza:10:8
+Fast Food:Margherita Pizza:12:7
+Fast Food:Chicken Pasta:14:6
+Fast Food:Veggie Pasta:16:5
+Desi Food:Chicken Biryani:10:7
+Desi Food:Mutton Biryani:8:8
+Desi Food:Palao:12:6
+Desi Food:Roti:50:1
+Desi Food:Chicken Karahi:7:9
+Desi Food:Mutton Karahi:5:10
+Desi Food:Chicken Tikka:6:7

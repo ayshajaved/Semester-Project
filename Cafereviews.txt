@@ -1,0 +1,12 @@
+Student:Great food and service:5
+Faculty:Nice ambiance but a bit noisy:4
+Student:Affordable prices and tasty meals:5
+Faculty:Good variety of dishes:4
+Student:Friendly staff and quick service:5
+Student:It was nice:3
+Student:its nice:4
+Faculty: Juicy!: 4
+Student: Very tasty!: 4
+Faculty: nice: 2
+Faculty: Hey its yummy: 4
+Student: yummy: 4
